@@ -107,7 +107,7 @@ I enjoy building **real-world applications that combine backend engineering with
 
 - 📧 officialmohamedtarek78@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/mohamed-tarek-378b6b320
-- 💻 GitHub: 
+- 💻 GitHub: https://github.com/mo7amedmengasu
 
 ---
 
