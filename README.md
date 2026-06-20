@@ -4,11 +4,13 @@
 
 ### AI & Software Engineering Student | Agentic AI Systems Developer
 
-Building scalable AI applications, multi-agent systems, RAG pipelines, and production-ready backend services.
+Building scalable AI applications, multi-agent systems, RAG pipelines, distributed inference systems, and production-ready backend services.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Tarek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-tarek-378b6b320)
 [![GitHub](https://img.shields.io/badge/GitHub-mo7amedmengasu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo7amedmengasu)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialmohamedtarek78@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=mo7amedmengasu&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -16,9 +18,11 @@ Building scalable AI applications, multi-agent systems, RAG pipelines, and produ
 
 ## About Me
 
-I am a Computer and AI Engineering student at **Ain Shams University** and the **University of East London**, ranked among the **top 5%** of my class. My primary interests are **Agentic AI, LLM applications, Retrieval-Augmented Generation, distributed inference, computer vision, and scalable backend systems**.
+I am a **Computer and AI Engineering** student pursuing a dual degree at **Ain Shams University** and the **University of East London**, ranked **15th out of 300+ students**.
 
-I enjoy turning AI concepts into complete software products—from data preparation and model evaluation to API development, deployment, and performance optimization.
+My main interests are **Agentic AI, LLM applications, Retrieval-Augmented Generation, distributed inference, computer vision, data engineering, and scalable backend systems**.
+
+I enjoy transforming AI concepts into complete software products—from data preparation and model evaluation to API development, deployment, and performance optimization.
 
 - AI Engineer Intern at **Zedny Inc.**
 - Teaching Assistant for the **HCIA-AI course at NTI**
@@ -34,60 +38,66 @@ I enjoy turning AI concepts into complete software products—from data preparat
 <tr>
 <td width="50%" valign="top">
 
-### [Agentic Restaurant Customer Service](https://github.com/mo7amedmengasu/Agentic-Customer-Service-For-A-Restaurant)
+### [Agentic Restaurant Customer Service System](https://github.com/mo7amedmengasu/Agentic-Customer-Service-For-A-Restaurant)
 
-A multi-agent customer service platform for order processing, complaint handling, and semantic FAQ retrieval.
+A multi-agent customer service platform that supports order processing, menu and FAQ assistance, complaint handling, and customer support workflows.
 
-**Highlights:** LangGraph orchestration, LLM routing, tool calling, PostgreSQL vector search, FastAPI, concurrent request handling, and Azure deployment.
+**Highlights:** LangGraph orchestration, LLM-based routing, tool calling, state management, FastAPI, ORM models, PostgreSQL vector search, concurrent request handling, and Azure deployment.
+
+**Performance:** Designed to support **300+ requests per minute** while maintaining stable response times.
 
 </td>
 <td width="50%" valign="top">
 
-### [DistroLLM](https://github.com/Hadyaziz05/distro_llm)
+### [DistroLLM — Distributed LLM Inference](https://github.com/Hadyaziz05/distro_llm)
 
 A distributed LLM inference architecture designed for scalable, low-latency AI requests across multiple regions.
 
-**Highlights:** vLLM, Redis Streams, Qdrant, semantic caching, token streaming, request batching, Docker, NGINX, Route 53, and AWS EC2.
+**Highlights:** vLLM, Redis Streams, Qdrant, semantic caching, asynchronous RAG, token streaming, request batching, Docker, NGINX, AWS Route 53, and EC2.
+
+**Performance:** Handled **1,000 concurrent inference requests in under 3 seconds** during load testing.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### [Haircare Multi-Agent AI System](https://github.com/mo7amedmengasu/hair_care_multi_agent_system)
 
-A personalized recommendation system combining image analysis, scientific document retrieval, and multi-agent reasoning.
+A personalized AI recommendation system developed for the **Henkel ThinkTech Hackathon**, combining image analysis, scientific document retrieval, and coordinated agent reasoning.
 
-**Highlights:** LangChain, LangGraph, FAISS, RAG, PDF processing, FastAPI, and Azure deployment.
+**Highlights:** LangChain, LangGraph, FastAPI, FAISS, RAG, embeddings, PDF processing, image analysis, and Azure deployment.
 
 </td>
 <td width="50%" valign="top">
 
 ### [Drone Detection Using YOLO](https://github.com/mo7amedmengasu/Drone-Detection)
 
-An end-to-end computer vision pipeline for real-time drone detection using multiple YOLO architectures.
+An end-to-end computer vision pipeline for real-time drone detection using YOLOv8 and YOLO11 architectures.
 
-**Highlights:** Data preprocessing, annotation conversion, training, validation, and comparison using mAP, precision, recall, FPS, and model size.
+**Highlights:** Dataset preprocessing, annotation standardization, model training, validation, and comparison using mAP, precision, recall, FPS, and model size.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### [AI-Enhanced Reddit Clone](https://github.com/Hadyaziz05/reddit-clone)
 
-A full-stack MERN platform enhanced with AI agents for content summarization, recommendation, and semantic discovery.
+A full-stack MERN platform enhanced with AI agents for content summarization, recommendation, reflection, and semantic discovery.
 
-**Highlights:** React, Node.js, MongoDB, LangGraph, embeddings, vector search, JWT authentication, and Azure deployment.
+**Highlights:** React, Node.js, MongoDB, LangGraph, embeddings, vector search, JWT authentication, REST APIs, and Azure deployment.
 
 </td>
 <td width="50%" valign="top">
 
 ### [Kaggle Price Prediction](https://github.com/mo7amedmengasu/predict-item-price)
 
-A regression pipeline that achieved **1st place** through effective feature engineering, preprocessing, model comparison, and hyperparameter optimization.
+A regression pipeline that achieved **1st place** in a Kaggle competition through effective feature engineering, preprocessing, model comparison, and hyperparameter optimization.
 
-**Highlights:** Scikit-learn, exploratory analysis, feature engineering, cross-validation, and MAE optimization.
+**Highlights:** Scikit-learn, exploratory data analysis, feature engineering, cross-validation, model tuning, and MAE optimization.
 
 </td>
 </tr>
@@ -110,7 +120,7 @@ A regression pipeline that achieved **1st place** through effective feature engi
 
 `LLMs` · `RAG` · `Agentic AI` · `Multi-Agent Systems` · `NLP` · `Computer Vision` · `Prompt Engineering` · `Fine-Tuning` · `Model Evaluation`
 
-### Backend, Databases & AI Infrastructure
+### Agentic AI, Backend & Databases
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -119,7 +129,7 @@ A regression pipeline that achieved **1st place** through effective feature engi
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
-`LangChain` · `LangGraph` · `FAISS` · `Qdrant` · `Vector Search` · `REST APIs` · `vLLM` · `Semantic Caching` · `ETL Pipelines`
+`LangChain` · `LangGraph` · `FAISS` · `Qdrant` · `PostgreSQL Vector Search` · `REST APIs` · `vLLM` · `Semantic Caching` · `ETL Pipelines`
 
 ### Software Engineering, Cloud & DevOps
 
@@ -140,15 +150,15 @@ A regression pipeline that achieved **1st place** through effective feature engi
 
 ## Education & Experience
 
-**Dual-Degree B.Sc. in Computer and AI Engineering**  
-Ain Shams University & University of East London · 2023-2027  
-GPA: **3.63** · Ranked **15th out of 300+ students**
+### Dual-Degree B.Sc. in Computer and AI Engineering
+**Ain Shams University & University of East London** · 2023–2027  
+GPA: **3.63** · Ranked **15th out of 300+ students — Top 5%**
 
-**AI Engineer Intern — Zedny Inc.**  
-Developed LLM-powered content tools, FastAPI services, RAG pipelines using FAISS, and multi-step LangChain/LangGraph workflows.
+### AI Engineer Intern — Zedny Inc.
+Built LLM-powered content generation tools, FastAPI services, RAG pipelines using FAISS, PDF chunking workflows, and multi-step LangChain/LangGraph applications.
 
-**Teaching Assistant — HCIA-AI, NTI**  
-Supported students in machine learning fundamentals, data preprocessing, model evaluation, Python labs, and debugging.
+### Teaching Assistant — HCIA-AI, NTI
+Supported students in machine learning fundamentals, data preprocessing, supervised learning, model evaluation, Python laboratories, and debugging.
 
 ---
 
@@ -157,29 +167,49 @@ Supported students in machine learning fundamentals, data preprocessing, model e
 - Designing reliable and scalable **agentic AI systems**
 - Building production-grade **RAG and multi-agent applications**
 - Exploring **distributed LLM inference and optimization**
-- Strengthening **data engineering, MLOps, and cloud architecture** skills
+- Strengthening **data engineering, MLOps, and cloud architecture**
+- Developing high-performance backend services for AI applications
 
 ---
 
-## GitHub Analytics
+## GitHub Activity & Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mo7amedmengasu&show_icons=true&hide_border=true&rank_icon=github" alt="Mohamed's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedmengasu&layout=compact&hide_border=true&langs_count=8" alt="Mohamed's most used languages" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mo7amedmengasu&theme=tokyonight" alt="Mohamed Tarek's GitHub contribution activity" />
+
+<br />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mo7amedmengasu&theme=tokyonight" alt="Mohamed Tarek's GitHub statistics" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mo7amedmengasu&theme=tokyonight" alt="Mohamed Tarek's repositories by language" />
+
+<br />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mo7amedmengasu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mohamed Tarek's GitHub stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo7amedmengasu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mohamed Tarek's most used languages" />
+
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mo7amedmengasu&theme=tokyonight&hide_border=true" alt="Mohamed Tarek's GitHub contribution streak" />
+
+<br />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=mo7amedmengasu&theme=tokyo-night&hide_border=true&area=true" alt="Mohamed Tarek's GitHub activity graph" />
 
 </div>
 
-> GitHub language statistics reflect the public code in my repositories and do not represent my complete technical experience.
+> GitHub statistics are generated from public repositories and contributions. Language percentages reflect repository content and do not represent my complete technical experience.
 
 ---
 
 <div align="center">
 
-### Let’s Connect
+## Let’s Connect
 
 I am interested in AI engineering, software engineering, research, internships, and collaborative projects that solve meaningful real-world problems.
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-tarek-378b6b320) · [GitHub](https://github.com/mo7amedmengasu) · [Email](mailto:officialmohamedtarek78@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-tarek-378b6b320) ·
+[GitHub](https://github.com/mo7amedmengasu) ·
+[Email](mailto:officialmohamedtarek78@gmail.com)
 
 </div>
